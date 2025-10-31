@@ -83,6 +83,7 @@ DEMO_MODE=true
 
 ## 🖼️ Screenshots
 
+
 | Page | Preview |
 |------|---------|
 | 🏠 Homepage | ![](client/public/screenshots/01_Homepage.png) |
@@ -96,5 +97,6 @@ DEMO_MODE=true
 | 📰 Blog List | ![](client/public/screenshots/25_Blog-List.png) |
 | 👤 Dashboard | ![](client/public/screenshots/27_Dasboard.png) |
 | 📦 Order History | ![](client/public/screenshots/28_Dashboard_Order-History.png) |
+
 
 
