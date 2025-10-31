@@ -1,0 +1,25 @@
+# deps & builds
+node_modules/
+dist/
+build/
+*.log
+
+# env files (never commit secrets)
+.env
+*.env
+.env.*
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# uploads/media (keep only a few samples locally)
+uploads/
+server/uploads/
+client/public/uploads/
+client/src/uploads/
+
+# tests/coverage
+coverage/

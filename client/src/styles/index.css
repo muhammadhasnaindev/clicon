@@ -1,0 +1,9 @@
+/* Basic reset and smooth fonts */
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; }
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  color: #191C1F;
+}
+.container-xxl { max-width: 1200px; margin-inline: auto; }
