@@ -79,20 +79,19 @@ DEMO_MODE=true
 ✅ Secure Cookie-based Auth (No token exposure)
 ---
 
-## 🖼️ Screenshots Preview
+## 🖼️ Screenshots
 
 | Page | Preview |
 |------|---------|
 | 🏠 Homepage | ![](client/public/screenshots/01_Homepage.png) |
-| 🛍️ Shop Page | ![](client/public/screenshots/07_Shop Page.png) |
-| 📄 Product Detail | ![](client/public/screenshots/08_Product Detail.png) |
-| 🎯 Track Order | ![](client/public/screenshots/09_Track Order.png) |
+| 🛍️ Shop Page | ![](client/public/screenshots/07_Shop%20Page.png) |
+| 📄 Product Detail | ![](client/public/screenshots/08_Product%20Detail.png) |
+| 🚚 Track Order | ![](client/public/screenshots/09_Track%20Order.png) |
 | 💖 Wishlist | ![](client/public/screenshots/12_Wishlist.png) |
 | 💳 Checkout | ![](client/public/screenshots/14_Check-out.png) |
-| ❓ FAQs Page | ![](client/public/screenshots/21_FAQs.png) |
-| ℹ️ About Us | ![](client/public/screenshots/23_About Us.png) |
-| 📰 Blog Posts | ![](client/public/screenshots/25_Blog List.png) |
-| 👤 Dashboard Home | ![](client/public/screenshots/27_Dasboard.png) |
-| 📦 Order History | ![](client/public/screenshots/28_Dasboard_Order History.png) |
+| ❓ FAQs | ![](client/public/screenshots/21_FAQs.png) |
+| ℹ️ About Us | ![](client/public/screenshots/23_About%20Us.png) |
+| 📰 Blog List | ![](client/public/screenshots/25_Blog%20List.png) |
+| 👤 Dashboard | ![](client/public/screenshots/27_Dasboard.png) |
+| 📦 Order History | ![](client/public/screenshots/28_Dasboard_Order%20History.png) |
 
-> **Tip:** You can add more screenshots anytime, just place them inside `client/public/screenshots/`.
